@@ -1,0 +1,53 @@
+.grosorHR {
+    height: 5px;
+    background-color: #333;
+    width: 100%;
+}
+
+.imgpequeñas {
+  padding-left: 10%;
+}
+
+.colorh3{
+  color: red;
+}
+
+.h5titulos{
+  text-align: center;
+}
+
+.ColorhoverP:hover{
+  color: red;
+}
+
+.hoverb:hover{
+  color: red;
+}
+
+.linksEscritores:link:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.linksEscritores{
+  color: red;
+}
+
+.linksLOA{
+  color: black;
+}
+
+.linksLOA:hover{
+  color: red;
+}
+
+.enlaces{
+  color: #333;
+}
+
+#page-footer, #page-wrapper:after {
+  height: 60px;
+}
+#page-footer {
+  background-color: #f5f5f5;
+}
